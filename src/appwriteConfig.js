@@ -1,9 +1,9 @@
 import { Client , Databases, Account, Role} from 'appwrite';
 
 
-export const PROJECT_ID = '64d09e6739835340fa85'
-export const DATABASE_ID = '64d0a092b21a88cb6608'
-export const COLLECTION_ID_MESSAGES = '64d0a0cc76ae6a5d84c2'
+export const PROJECT_ID = 'enter ur project id'
+export const DATABASE_ID = 'enter your db id'
+export const COLLECTION_ID_MESSAGES = 'enter your collection id'
 
 const client = new Client();
 
